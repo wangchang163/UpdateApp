@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">version_update</string>
+    <string name="update_check">检测到新版本</string>
+    <string name="update_title">版本更新</string>
+    <string name="update_sure">确定</string>
+    <string name="update_cancel">取消</string>
+    <string name="update_ing">正在更新</string>
+    <string name="download_progress">下载进度:%d%%/100%%</string>
+    <string name="download_finish">下载完成，点击安装</string>
+    <string name="downloading">正在下载中...</string>
+    <string name="download_success">下载完成</string>
+
+</resources>
