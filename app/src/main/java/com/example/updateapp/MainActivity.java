@@ -22,12 +22,6 @@ public class MainActivity extends AppCompatActivity {
                 UpdateActivity.launch(MainActivity.this, model);
             }
         });
-        findViewById(R.id.button2).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-            }
-        });
     }
 
     private void initModel() {
