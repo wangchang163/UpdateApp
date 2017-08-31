@@ -57,4 +57,4 @@ Android 封装版本更新module，适配7.0系统
 ![image](https://github.com/wangchang163/UpdateApp/blob/master/image/icon6.png)
 
 
-如有问题，请提Issues，本库一直维护
+如有问题，请提Issues，本库一直维护，至于样式问题，不可能有万能样式，所以大家自行修改
