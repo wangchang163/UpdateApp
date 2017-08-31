@@ -12,28 +12,28 @@ Android 封装版本更新module，适配7.0系统
 
 首页
 
-![image]()
+![image](https://github.com/wangchang163/UpdateApp/blob/master/image/icon.png)
 
 强制更新
 
-![image]()
+![image](https://github.com/wangchang163/UpdateApp/blob/master/image/icon1.png)
 
 版本更新
 
-![image]()
+![image](https://github.com/wangchang163/UpdateApp/blob/master/image/icon2.png)
 
 网络检测
 
-![image]()
+![image](https://github.com/wangchang163/UpdateApp/blob/master/image/icon3.png)
 
 下载进度
 
-![image]()
+![image](https://github.com/wangchang163/UpdateApp/blob/master/image/icon4.png)
 
 通知栏进度
 
-![image]()
+![image](https://github.com/wangchang163/UpdateApp/blob/master/image/icon5.png)
 
 通知栏安装
 
-![image]()
+![image](https://github.com/wangchang163/UpdateApp/blob/master/image/icon6.png)
